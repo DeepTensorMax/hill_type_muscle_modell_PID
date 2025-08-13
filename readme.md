@@ -18,8 +18,8 @@ Below are figures illustrating the PID controller structure and the overall comp
 
 ### PID Controller
 
-![PID Controller](pid_1.png)
+![PID Controller](img/pid_1.PNG)
 
 ### Computational Pipeline
 
-![Computational Pipeline](pid_2.png)
+![Computational Pipeline](img/pid_2.PNG)
